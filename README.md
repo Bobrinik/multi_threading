@@ -8,7 +8,7 @@
 - yield
 
 
-```
+```java
 synchrnized(object o){
   //code modifying object o
 }
